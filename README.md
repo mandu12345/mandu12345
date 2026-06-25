@@ -1,16 +1,75 @@
-## Hi there 👋
+# 안녕하세요, 백엔드 개발자를 준비하고 있는 박지수입니다 👋
 
-<!--
-**mandu12345/mandu12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+가천대학교 컴퓨터공학과 4학년에 재학 중입니다.
 
-Here are some ideas to get you started:
+**Spring Boot 기반 백엔드 개발**을 중심으로 공부하고 있으며,  
+직접 만든 서비스를 배포하고 운영할 수 있도록 **Linux와 AWS 클라우드**로 학습 범위를 넓히고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+앞으로는 AI 기술을 서비스에 접목한 개인 프로젝트도 진행할 예정입니다.
+
+## 🛠 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+### Database & Frontend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+
+### Currently Learning
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Service_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+
+## 🚀 Projects
+
+### AI 업무 이메일 자동화 에이전트 · GachonCapstone4
+
+업무 이메일의 분류와 처리를 지원하는 AI 기반 자동화 서비스입니다.
+
+**담당 업무**
+- Spring Boot 기반 메인 백엔드 개발
+- 관리자 서버 개발
+- 이메일 및 사용자 관련 API 구현
+- 백엔드 기능 통합 및 유지보수
+
+[Backend Server](https://github.com/GachonCapstone4/Backend_Server) · [Admin Server](https://github.com/GachonCapstone4/Admin_Server)
+
+---
+
+### StudyLinker
+
+GPS 기반 추천 기술을 활용한 스터디 그룹 관리 서비스입니다.  
+🏆 **프로젝트 최우수상 수상**
+
+**담당 업무**
+- React 기반 프론트엔드 개발
+- 사용자 페이지 및 스터디 관리 화면 구현
+- 백엔드 MSA 전환 과정에서 Study Service 개발 참여
+
+[Frontend](https://github.com/studylinker/frontend) · [Backend MSA](https://github.com/studylinker/backend-msa)
+
+---
+
+### Consumer MBTI
+
+소비 성향을 분석하는 소규모 개인 풀스택 프로젝트입니다.
+
+**담당 업무**
+- 프론트엔드 및 백엔드 전체 개발
+- Linux 환경 구성
+- AWS EC2 배포 진행 예정
+
+[Repository](https://github.com/mandu12345/consumer-mbti)
+
+## 📚 Current Goals
+
+- Spring Boot 백엔드 설계 및 테스트 역량 강화
+- Consumer MBTI의 AWS EC2 배포
+- Docker를 활용한 배포 환경 구성
+- AI 기능을 적용한 개인 프로젝트 개발
