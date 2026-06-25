@@ -33,10 +33,15 @@
 업무 이메일의 분류와 처리를 지원하는 AI 기반 자동화 서비스입니다.
 
 **담당 업무**
-- Spring Boot 기반 메인 백엔드 개발
-- 관리자 서버 개발
-- 이메일 및 사용자 관련 API 구현
-- 백엔드 기능 통합 및 유지보수
+- Users 및 Integrations 도메인 중심의 API 설계·구현
+- 회원가입 및 로그인 기능 구현
+- JWT 기반 서비스 인증·인가 체계 구현
+- Google OAuth 기반 Gmail·Calendar 계정 연동
+- 연동된 Gmail 계정의 메일 수집·감시 시작 흐름 구현
+- 사용자·관리자 Role 기반 권한 처리
+- 관리자 기능 및 Admin API 구현
+
+> 서비스 계정 인증은 JWT, 외부 Google 계정 연결은 OAuth로 분리된 이중 인증 구조를 적용했습니다.
 
 [Backend Server](https://github.com/GachonCapstone4/Backend_Server) · [Admin Server](https://github.com/GachonCapstone4/Admin_Server)
 
@@ -47,10 +52,13 @@
 GPS 기반 추천 기술을 활용한 스터디 그룹 관리 서비스입니다.  
 🏆 **프로젝트 최우수상 수상**
 
+서비스는 사용자와 관리자 두 가지 Role로 구성되며, **사용자 영역 전체**를 담당했습니다.
+
 **담당 업무**
-- React 기반 프론트엔드 개발
-- 사용자 페이지 및 스터디 관리 화면 구현
-- 백엔드 MSA 전환 과정에서 Study Service 개발 참여
+- React 기반 사용자 프론트엔드 전체 개발
+- 사용자 페이지 및 스터디 그룹 관리 화면 구현
+- 사용자 기능과 백엔드 API 연동
+- 백엔드 MSA 전환 과정에서 사용자 영역의 Study Service 개발 참여
 
 [Frontend](https://github.com/studylinker/frontend) · [Backend MSA](https://github.com/studylinker/backend-msa)
 
