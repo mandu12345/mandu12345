@@ -74,6 +74,5 @@ GPS 기반 추천 기술을 활용한 스터디 그룹 관리 서비스입니다
 ## 📚 Current Goals
 
 - Spring Boot 백엔드 설계 및 테스트 역량 강화
-- Consumer MBTI의 AWS EC2 배포
 - Docker를 활용한 배포 환경 구성
 - AI 기능을 적용한 개인 프로젝트 개발
