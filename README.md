@@ -70,11 +70,11 @@ GPS 기반 스터디 그룹 추천 및 관리 서비스
 
 **Development**
 
-
+<img src="https://skillicons.dev/icons?i=java,spring,js,react&theme=light" alt="Java, Spring Boot, JavaScript, React" />
 
 **Infrastructure & Tools**
 
-
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=light" alt="Linux, Docker, AWS, Git, GitHub" />
 
 ---
 
