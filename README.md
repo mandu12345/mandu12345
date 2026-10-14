@@ -5,8 +5,6 @@
 **Spring Boot 기반 백엔드 개발**을 중심으로 공부하고 있으며,  
 직접 만든 서비스를 배포하고 운영할 수 있도록 **Linux와 AWS 클라우드**로 학습 범위를 넓히고 있습니다.
 
-AI 기술을 서비스에 접목한 개인 프로젝트도 진행할 예정입니다.
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -71,8 +69,3 @@ GPS 기반 추천 기술을 활용한 스터디 그룹 관리 서비스입니다
 
 [Repository](https://github.com/mandu12345/consumer-mbti)
 
-## 📚 Current Goals
-
-- Spring Boot 백엔드 설계 및 테스트 역량 강화
-- Docker를 활용한 배포 환경 구성
-- AI 기능을 적용한 개인 프로젝트 개발
