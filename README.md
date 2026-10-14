@@ -80,4 +80,6 @@ GPS 기반 스터디 그룹 추천 및 관리 서비스
 
 ## 📬 Contact
 
-[GitHub](https://github.com/mandu12345)
+📧 **Email:** [jisu0303009@gmail.com](mailto:jisu0303009@gmail.com)
+
+🔗 **GitHub:** [mandu12345](https://github.com/mandu12345)
