@@ -6,7 +6,7 @@
 
 직접 시도하고 검토하는 과정을 중요하게 생각하며, 발견한 문제가 사용자와 서비스에 도움이 되는 변화로 이어질 때 보람을 느낍니다.
 
----
+
 
 ## 🔎 How I Work
 
@@ -14,7 +14,7 @@
 
 당연하게 여겨지는 것에 질문을 던지고, 직접 확인한 내용을 바탕으로 개선점을 찾아갑니다.
 
----
+
 
 ## 📂 Projects & Experiences
 
@@ -64,7 +64,7 @@ GPS 기반 스터디 그룹 추천 및 관리 서비스
 
 🔗 [Consumer MBTI](https://github.com/mandu12345/consumer-mbti)
 
----
+
 
 ## 🛠 Skills & Tools
 
@@ -76,7 +76,7 @@ GPS 기반 스터디 그룹 추천 및 관리 서비스
 
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=light" alt="Linux, Docker, AWS, Git, GitHub" />
 
----
+
 
 ## 📬 Contact
 
